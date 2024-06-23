@@ -28,3 +28,7 @@ The dataset contains daily bike demand information with various features such as
 - **Casual Users**: Continuous (Number of casual users)
 - **Registered Users**: Continuous (Number of registered users)
 - **Total Count (`cnt`)**: Continuous (Total number of bike rentals)
+
+Conclusion
+
+The project helps BoomBikes understand the factors affecting bike demand, allowing them to make informed business decisions and enhance their services post-pandemic. The model built in this project provides a foundation for predicting future bike demand based on various influencing factors.
